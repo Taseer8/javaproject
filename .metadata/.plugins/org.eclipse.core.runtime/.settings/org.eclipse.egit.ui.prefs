@@ -1,4 +1,4 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>pushing 2</message>\r\n<message>pushing shop</message>\r\n<message>pushing to git</message>\r\n<message>Testing the connection</message>\r\n</messages>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>push task</message>\r\n<message>pushing 2</message>\r\n<message>pushing shop</message>\r\n<message>pushing to git</message>\r\n<message>Testing the connection</message>\r\n</messages>
 eclipse.preferences.version=1
 repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
 resourcehistory_graph_split=500,500
