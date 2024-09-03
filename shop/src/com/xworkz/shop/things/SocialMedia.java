@@ -35,5 +35,4 @@ public class SocialMedia {
 		System.out.println("user age:"+this.age);
 		
 	}
-
 }
