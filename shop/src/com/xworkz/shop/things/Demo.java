@@ -14,12 +14,11 @@ public class Demo {
 		}
 	}
 	public void palimdrom() {
-		
 		Scanner sc = new Scanner(System.in); 
 		String sh = sc.next();
 		char[] ch = sh.toCharArray();
 		for(int j=0; j<ch.length; j++) {
-			for(int i=ch.length-1; i>=0; ) {
+			for(int i=ch.length-1; i>=0; i--) {
 			if(ch[i] == ch[j]) {
 				System.out.println("it is a palimdrom");
 				return;
