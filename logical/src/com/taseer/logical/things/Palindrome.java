@@ -15,10 +15,10 @@ public class Palindrome {
 		System.out.println(rev);
 
 		if(org.equals(rev)) {
-			System.out.println("it is a palimdrom");
+			System.out.println("it is a palindrome");
 		}
 		else {
-			System.out.println("it not a palimdrom");
+			System.out.println("it not a palindrome");
 		}
 	}
 
