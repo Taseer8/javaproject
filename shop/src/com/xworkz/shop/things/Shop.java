@@ -26,7 +26,7 @@ public class Shop {
 		System.out.println("getShopDetails is started");
 		System.out.println("shopname:"+this.shopName);
 		System.out.println("gst number:"+this.shopGstNumber);
-		System.out.println("getShopDetails is ended");
+		System.out.println("getShopDetails is ended"+);
 
 	}
 	

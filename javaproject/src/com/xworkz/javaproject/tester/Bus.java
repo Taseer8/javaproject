@@ -8,6 +8,7 @@ public class Bus {
 	    public boolean isAvailable;
 	    
 	    public void getBusNo(String busNumber) {
+	    	System.out.println("getBusNo");
 	    	this.getCapacity("KA-01-1234", "MG Road to Whitefield", "John Doe", 58, true);
 	    	this.busNumber = busNumber;
 	    	this.displayDetails();

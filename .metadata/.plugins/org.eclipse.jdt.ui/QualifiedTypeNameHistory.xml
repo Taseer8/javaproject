@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.xworkz.shop.things.SocialMedia"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.DemoTester"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.things.Demo"/>
+    <fullyQualifiedTypeName name="com.xworkz.javaproject.tester.NammaYatri"/>
+    <fullyQualifiedTypeName name="com.xworkz.javaproject.tester.shoes"/>
+    <fullyQualifiedTypeName name="com.xworkz.javaproject.tester.Briyani"/>
+    <fullyQualifiedTypeName name="com.xworkz.javaproject.tester.Bus"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Phone"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.things.Ola"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.things.Bike"/>
+    <fullyQualifiedTypeName name="com.Xworkz.Game.things.Game"/>
+    <fullyQualifiedTypeName name="com.Xworkz.Game.things.Cricket"/>
+    <fullyQualifiedTypeName name="com.Xworkz.Game.things.FootBall"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.things.Police"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Laptop"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Dell"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.constant.Laptops"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Furniture"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Sofas"/>
+    <fullyQualifiedTypeName name="com.xworkz.shop.tester.Wardrobes"/>
+    <fullyQualifiedTypeName name="com.xworkz.Tv.things.Tv"/>
+    <fullyQualifiedTypeName name="com.xworkz.Tv.things.OnePlus"/>
+    <fullyQualifiedTypeName name="com.xworkz.Tv.things.Samsung"/>
+    <fullyQualifiedTypeName name="com.xworkx.bookings.things.BookingDetails"/>
+    <fullyQualifiedTypeName name="com.xworkx.bookings.things.BookMyShow"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.xworkz.assocations.things.Area"/>
+    <fullyQualifiedTypeName name="com.xworkz.assocations.things.City"/>
+    <fullyQualifiedTypeName name="com.xworkz.assocations.things.Tester"/>
+    <fullyQualifiedTypeName name="com.xworkz.assocations.things.Developer"/>
+    <fullyQualifiedTypeName name="com.xworkz.assocations.things.Project"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
+    <fullyQualifiedTypeName name="com.xworkz.absractproject.dto.PersonalDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.absractproject.service.PersonalDetails"/>
+    <fullyQualifiedTypeName name="com.xworkz.absractproject.service.TaseerInformation"/>
+    <fullyQualifiedTypeName name="com.xworkz.absractproject.service.ZuberInformation"/>
 </qualifiedTypeNameHistroy>

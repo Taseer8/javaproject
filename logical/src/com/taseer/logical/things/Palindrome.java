@@ -13,7 +13,6 @@ public class Palindrome {
 			rev=rev+ch[i];
 		}
 		System.out.println(rev);
-
 		if(org.equals(rev)) {
 			System.out.println("it is a palimdrom");
 		}
@@ -21,5 +20,4 @@ public class Palindrome {
 			System.out.println("it not a palimdrom");
 		}
 	}
-
 }
