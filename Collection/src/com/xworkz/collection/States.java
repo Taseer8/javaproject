@@ -1,0 +1,162 @@
+package com.xworkz.collection;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class States {
+	public static void main(String[] args) {
+		Collection<String> cityName = new ArrayList<String>();
+		cityName.add("Ballari");
+		cityName.add("Raichur");
+		cityName.add("Bangalore");
+		cityName.add("Mangalore");
+		cityName.add("Hassana");
+		cityName.add("Gulbarga");
+		cityName.add("Vijaynagar");
+		cityName.add("vijayapur");
+		cityName.add("kopal");
+		cityName.add("gadga");
+		cityName.add("hubli");
+		cityName.add("belgam");
+		cityName.add("bidar");
+		cityName.add("yadgir");
+		cityName.add("tumkur");
+		System.out.println("city names of karnataka:"+cityName);
+		System.out.println(cityName.size());
+		
+		Collection<Integer> number1 = new ArrayList<Integer>();
+		number1.add(45);
+		number1.add(78);
+		number1.add(67);
+		number1.add(56);
+		number1.add(78);
+		number1.add(88);
+		number1.add(99);
+		number1.add(100);
+		number1.add(11);
+		number1.add(71);
+		number1.add(12);
+		number1.add(13);
+		number1.add(14);
+		number1.add(15);
+		number1.add(22);
+		System.out.println("integer:"+number1);
+		System.out.println(number1.size());
+		Collection<Byte> number4 = new ArrayList<Byte>();
+		number4.add((byte) 5);
+		number4.add((byte)4);
+		number4.add((byte)6);
+		number4.add((byte)5);
+		number4.add((byte)8);
+		number4.add((byte)84);
+		number4.add((byte)34);
+		number4.add((byte)10);
+		number4.add((byte)21);
+		number4.add((byte)23);
+		number4.add((byte)34);
+		number4.add((byte)35);
+		number4.add((byte)56);
+		number4.add((byte)67);
+		number4.add((byte)23);
+		System.out.println("byte:"+number4);
+		System.out.println(number4.size());
+		Collection<Short> number3 = new ArrayList<Short>();
+		number3.add((short) 1);
+		number3.add((short)2);
+		number3.add((short)3);
+		number3.add((short)4);
+		number3.add((short)6);
+		number3.add((short)4);
+		number3.add((short)55);
+		number3.add((short)11);
+		number3.add((short)22);
+		number3.add((short)33);
+		number3.add((short)44);
+		number3.add((short)55);
+		number3.add((short)67);
+		number3.add((short)88);
+		number3.add((short)99);
+		System.out.println("short:"+number3);
+		System.out.println(number3.size());
+		
+		Collection<Long> number5 = new ArrayList<Long>();
+		number5.add(  15156165l);
+		number5.add( 254564l);
+		number5.add( 35646545l);
+		number5.add( 4565266528l);
+		number5.add( 6855165128l);
+		number5.add( 415629849l);
+		number5.add( 555428498l);
+		number5.add( 11548244874l);
+		number5.add( 2242867945l);
+		number5.add( 335458778l);
+		number5.add( 4442998498l);
+		number5.add( 55286988l);
+		number5.add( 67524464928l);
+		number5.add( 8842849428469l);
+		number5.add( 9952644l);
+		System.out.println("long:"+number5);
+		System.out.println(number5.size());
+		Collection<Character> ch = new ArrayList<Character>();
+		ch.add('a');
+		ch.add('b');
+		ch.add('c');
+		ch.add('d');
+		ch.add('e');
+		ch.add('f');
+		ch.add('g');
+		ch.add('h');
+		ch.add('i');
+		ch.add('j');
+		ch.add('k');
+		ch.add('l');
+		ch.add('m');
+		ch.add('n');
+		ch.add('o');
+
+		System.out.println("char:"+ch);
+		System.out.println(ch.size());
+		
+		
+		
+		
+		Collection<Float> number2 = new ArrayList<Float>();
+		number2.add(5.0f);
+		number2.add(4.3f);
+		number2.add(6.7f);
+		number2.add(6.5f);
+		number2.add(8.7f);
+		number2.add(8.8f);
+		number2.add(99.0f);
+		number2.add(10.0f);
+		number2.add(11.9f);
+		number2.add(71.2f);
+		number2.add(12.4f);
+		number2.add(13.5f);
+		number2.add(14.6f);
+		number2.add(15.7f);
+		number2.add(22.8f);
+		System.out.println("float:"+number2);
+		System.out.println(number2.size());
+		Collection<Double> number6 = new ArrayList<Double>();
+		number6.add(1.0d);
+		number6.add(2.3d);
+		number6.add(3.7d);
+		number6.add(4.5d);
+		number6.add(5.7d);
+		number6.add(6.8d);
+		number6.add(7.0d);
+		number6.add(80.0d);
+		number6.add(91.9d);
+		number6.add(11.2d);
+		number6.add(32.4d);
+		number6.add(43.5d);
+		number6.add(54.6d);
+		number6.add(65.7d);
+		number6.add(72.8d);
+		System.out.println("double:"+number6);
+		System.out.println(number6.size());
+		
+	}
+
+}
