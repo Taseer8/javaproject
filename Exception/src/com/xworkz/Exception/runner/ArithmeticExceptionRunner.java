@@ -4,7 +4,7 @@ public class ArithmeticExceptionRunner {
 
 	public static void main(String[] args) {
 		       try {
-		            int checkAge =15 ; 
+		            int checkAge =18 ; 
 		            if(checkAge<18) {
 		            	throw new ArithmeticException("age is must be 18 or older");
 		            }
