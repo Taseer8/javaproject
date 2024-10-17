@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
 	<list key="CommitDialog.authorValues">
 		<item value="Taseer8 &lt;taseer08.xworkz@gmail.com&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
 		<item value="Taseer8 &lt;taseer08.xworkz@gmail.com&gt;"/>
 	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Taseer8/javaP.git"/>
+		<item value="https://github.com/Taseer8/task.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
 		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
 		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
-		<item key="sortItemState" value="false"/>
+		<item key="sortItemState" value="true"/>
 	</section>
 	<section name="GitCommitSearchPage">
 		<item key="HISTORY_SIZE" value="0"/>

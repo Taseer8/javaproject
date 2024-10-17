@@ -6,7 +6,6 @@ public class Arthematic {
         int num1 = 10;
         int number = 0;
         double result ;
-       
         try {
             result = num1 / number;
             System.out.println("Result: " + result);
@@ -17,7 +16,6 @@ public class Arthematic {
         } finally {
             System.out.println("Division operation is completed.");
         }
-
        
     }
 }
