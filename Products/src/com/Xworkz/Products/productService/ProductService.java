@@ -23,7 +23,7 @@ public class ProductService implements ProductSericeImpliments{
 	}
 	@Override
 	public List<ProductDto> getAll() {
-		// TODO Auto-generated method stub
+		
 		return repo.getAll();
 	}
 	@Override

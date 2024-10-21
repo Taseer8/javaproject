@@ -57,8 +57,6 @@ public class ComplenteRunner {
 			}
 			System.out.println("enter the 1 2 3 are 4");
 			select = sc.nextInt();
-
 		}
 	}
-
 }

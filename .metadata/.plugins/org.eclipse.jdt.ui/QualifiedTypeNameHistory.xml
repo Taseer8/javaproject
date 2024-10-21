@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="lombok.ToString"/>
-    <fullyQualifiedTypeName name="com.xworkz.Television.repo.TvRepo"/>
-    <fullyQualifiedTypeName name="com.xworkz.Television.services.TvService"/>
-    <fullyQualifiedTypeName name="com.xworkz.Television.Dto.TvDto"/>
-    <fullyQualifiedTypeName name="com.xworkz.Television.constants.TvEnum"/>
-    <fullyQualifiedTypeName name="com.xworkz.Railway.constant.Location"/>
     <fullyQualifiedTypeName name="com.xworkz.Railway.service.Service"/>
     <fullyQualifiedTypeName name="com.xworkz.Railway.repo.StationRepo"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
@@ -43,21 +37,27 @@
     <fullyQualifiedTypeName name="com.xworkz.vendors.service.VendorService"/>
     <fullyQualifiedTypeName name="com.xworkz.vendors.repo.VendorRepoImpliments"/>
     <fullyQualifiedTypeName name="com.xworkz.vendors.repo.VendorRepo"/>
-    <fullyQualifiedTypeName name="java.awt.List"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteRepo.CompRempImpliments"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteServive.CompServiceimpliments"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteServive.CompleService"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteRepo.CompRepo"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteDto.ComplenteDto"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="com.Xworkz.Products.productService.ProductSericeImplements"/>
-    <fullyQualifiedTypeName name="java.util.HashSet"/>
     <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
     <fullyQualifiedTypeName name="java.util.SortedSet"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.xworkz.store.repo.StoreRepoImpli"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.xworkz.store.dto.StoreDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.store.service.StoreServiceImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.store.service.StoreService"/>
+    <fullyQualifiedTypeName name="com.xworkz.store.repo.StoreRepo"/>
 </qualifiedTypeNameHistroy>

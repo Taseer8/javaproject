@@ -16,7 +16,7 @@ public class ProductRepo implements ProductRepoImlements {
 
 	@Override
 	public List<ProductDto> getAll() {
-		// TODO Auto-generated method stub
+		
 		return product;
 	}
 

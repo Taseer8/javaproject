@@ -18,5 +18,4 @@ public class Task {
 			System.out.println(itrator.next());
 		}
 	}
-
 }
