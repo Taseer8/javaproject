@@ -2,15 +2,15 @@ package com.xworkz.javafeature.runner;
 
 import java.util.Comparator;
 
-public class Comparato {
+public class JavaF {
 
 	public static void main(String[] args) {
-
-		Comparator<String> comparatore = new Comparator<String>() {
+		Comparator<String>  comparatore = new Comparator<String>() {
 
 			@Override
 			public int compare(String o1, String o2) {
 				if(o1.equals(o2))
+
 					return 0;
 				else
 					return 1;
@@ -26,3 +26,4 @@ public class Comparato {
 		System.out.println("test result:"+comparator1.test("tas", "tas"));
 	}
 }
+
