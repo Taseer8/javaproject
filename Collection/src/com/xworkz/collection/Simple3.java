@@ -20,9 +20,7 @@ public class Simple3 {
 		System.out.println("before remove");
 		ref.remove(1);
 		ref.forEach(i -> System.out.println(i));
-
 		System.err.println("Search:"+ref.contains("Taseer@gmail.com"));
-
 		ref.add(2, "india@gmail.com");
 		ref.forEach(i -> System.out.println("After update:"+i));
 
