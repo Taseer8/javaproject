@@ -12,8 +12,8 @@ public class ComNumber {
 		List<Integer> num  = new ArrayList<Integer>();
 		int[] sum = {0};
 		num.add(1);
-		num.add(2);
 		num.add(3);
+		num.add(2);
 		num.add(4);
 		num.add(5);
 		num.add(6);
@@ -25,11 +25,11 @@ public class ComNumber {
 		num.add(12);
 		num.add(13);
 
-		Comparator<Integer> comp = (Integer i1,Integer i2)->i2.compareTo(i1);
-		
+		Comparator<Integer> comp = (Integer i1,Integer i2)->i1.compareTo(i2);
+
 		Collections.sort(num,comp);
 		System.out.println(num);
-//		
+		//		
 		List<Character> cha  = new LinkedList<Character>();
 		cha.add('a');
 		cha.add('b');
@@ -44,28 +44,47 @@ public class ComNumber {
 		Comparator<Character> compp = (Character t1,Character t2)->t2.compareTo(t1);
 		Collections.sort(cha,compp);
 		System.out.println(cha);
-		
+
 		//dto 
 		//first dto 
-		NamesDto name = new NamesDto();
-		name.setName("taseer");
+//		NamesDto name = new NamesDto();
+//		name.setName("taseer");
 		//second dto
-		NamesDto names = new NamesDto();
-		names.setName("abhishake");
+//		NamesDto names = new NamesDto();
+//		names.setName("abhishake");
 		// dto array list
 		List<NamesDto> dto  = new ArrayList<NamesDto>();
-		dto.add(names);
-		dto.add(name);
+		dto.add(new NamesDto("Taseer"));
+		dto.add(new NamesDto("Sufiyan"));
+		dto.add(new NamesDto("Abhishek"));
+		dto.add(new NamesDto("Ravi"));
+//		dto.add(name);
 		System.out.println(dto);
-		
+
 		Comparator<NamesDto> compr = (NamesDto f1, NamesDto f2)-> f2.getName().compareTo(f1.getName());
 		Collections.sort(dto, compr);
 		System.out.println(dto);
-	
+
 		//sum of list elements
 		num.forEach(s -> sum[0] += s);
 		System.out.println("sum array elements:"+sum[0]);
 		
+		
+		List<Double> doublenumber = new ArrayList<Double>();
+		doublenumber.add(0.1235);
+		doublenumber.add(0.7895);
+		doublenumber.add(0.8952);
+		doublenumber.add(0.7895);
+		doublenumber.add(0.7862);
+		doublenumber.add(0.45885);
+		doublenumber.add(0.7984);
+		doublenumber.add(0.1562);
+		doublenumber.add(0.5642);
+		doublenumber.add(0.10256);
+		Comparator<Double> ref = (Double s1, Double s2)-> s1.compareTo(s2);	
+		Collections.sort(doublenumber, ref);
+		System.out.println(doublenumber);
+
 	}
 
 }
