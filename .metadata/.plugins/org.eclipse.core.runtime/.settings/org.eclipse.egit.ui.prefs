@@ -1,6 +1,6 @@
 StagingView_CompareMode=false
 StagingView_ShowNewCommits=true
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>collection -&gt; itrator</message>\r\n<message>commit</message>\r\n<message>Collection -&gt; set</message>\r\n<message>collection-&gt; set</message>\r\n<message>crud</message>\r\n<message>product Crud using colllections</message>\r\n<message>complente crud using collections</message>\r\n<message>vendor collections</message>\r\n<message>collections</message>\r\n<message>exciption</message>\r\n</messages>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>..</message>\r\n<message>collections -&gt;comparator and comparing</message>\r\n<message>collection -&gt; itrator</message>\r\n<message>commit</message>\r\n<message>Collection -&gt; set</message>\r\n<message>collection-&gt; set</message>\r\n<message>crud</message>\r\n<message>product Crud using colllections</message>\r\n<message>complente crud using collections</message>\r\n<message>vendor collections</message>\r\n</messages>
 eclipse.preferences.version=1
 repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
 resourcehistory_graph_split=500,500
