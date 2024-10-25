@@ -1,9 +1,11 @@
 package com.xworkz.javafeature.dto;
 
+import java.io.Serializable;
+
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class MovieDto implements Comparable<MovieDto> {
+public class MovieDto implements Comparable<MovieDto> ,Serializable{
 	private String title ;
 	private Double rating;
 	private Integer releaseYear;

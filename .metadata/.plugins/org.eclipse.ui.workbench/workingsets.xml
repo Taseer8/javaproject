@@ -35,6 +35,7 @@
 <item elementID="=Products" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=store" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=JavaFeatures" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FileOperations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725269483379_2" label="Window Working Set" name="Aggregate for window 1725269483379"/>
 <mruList name="shop"/>
