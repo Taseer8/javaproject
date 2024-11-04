@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.javaslipTest.tester.Car"/>
-    <fullyQualifiedTypeName name="com.xworkz.javaslipTest.tester.Vehical"/>
-    <fullyQualifiedTypeName name="com.xworkz.javaslipTest.tester.Bike"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.util.Collection"/>
-    <fullyQualifiedTypeName name="com.xworkz.collection.LinkedListExample"/>
-    <fullyQualifiedTypeName name="com.xworkz.vendors.dto.VendorDto"/>
-    <fullyQualifiedTypeName name="com.xworkz.vendors.service.VerdorServiceimpliments"/>
-    <fullyQualifiedTypeName name="com.xworkz.vendors.service.VendorService"/>
-    <fullyQualifiedTypeName name="com.xworkz.vendors.repo.VendorRepoImpliments"/>
     <fullyQualifiedTypeName name="com.xworkz.vendors.repo.VendorRepo"/>
     <fullyQualifiedTypeName name="com.xworkz.complente.complenteRepo.CompRempImpliments"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -53,11 +43,21 @@
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.ToString"/>
     <fullyQualifiedTypeName name="com.xworkz.javafeature.dto.PlanetDto"/>
-    <fullyQualifiedTypeName name="lombok.Data"/>
-    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.xworkz.javafeature.dto.CityDto"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.xworkz.FileOperation.dto.MovieDto"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 </qualifiedTypeNameHistroy>
