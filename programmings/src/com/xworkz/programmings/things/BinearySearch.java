@@ -7,7 +7,6 @@ public class BinearySearch {
 		int low = 0; int high = arr.length-1;
 		while(low <= high ) {
 			int mid = low + (high- low)/2;
-
 			if(arr[mid] == x ) {
 				return mid;
 			}
@@ -22,13 +21,11 @@ public class BinearySearch {
 		}
 		return 0;
 	}
-
 	public static void main(String[] args) {
 		BinearySearch bs = new BinearySearch();
 		int arr[] = { 2, 3, 4, 10, 40 ,5 ,15};
 		int x = 10;
 		int n = arr.length;
-
 		int result = bs.bineary(arr, x) ; 
 		for(int i = 0; i < n; i++) {
 		}
